@@ -1,0 +1,7 @@
+{
+  "name": "voice-store-api",
+  "dependencies": {
+    "firebase-admin": "^11.11.0",
+    "axios": "^1.6.2"
+  }
+}
